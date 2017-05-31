@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56" started-at="2017-05-22T19:17:18Z" finished-at="2017-05-22T19:17:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56" started-at="2017-05-22T19:17:18Z" finished-at="2017-05-22T19:17:18Z">
+      <class name="com.systemActor.ActorSystemSpec">
+        <test-method status="PASS" signature="beforeTesting()[pri:0, instance:com.systemActor.ActorSystemSpec@3e6fa38a]" name="beforeTesting" is-config="true" duration-ms="11" started-at="2017-05-22T21:17:18Z" finished-at="2017-05-22T21:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTesting -->
+        <test-method status="PASS" signature="GivenConfigFieWhenStartThenLoadIt()[pri:0, instance:com.systemActor.ActorSystemSpec@3e6fa38a]" name="GivenConfigFieWhenStartThenLoadIt" duration-ms="9" started-at="2017-05-22T21:17:18Z" finished-at="2017-05-22T21:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GivenConfigFieWhenStartThenLoadIt -->
+        <test-method status="PASS" signature="WhenAddMessageFileThenNotifyScanner()[pri:0, instance:com.systemActor.ActorSystemSpec@3e6fa38a]" name="WhenAddMessageFileThenNotifyScanner" duration-ms="8" started-at="2017-05-22T21:17:18Z" finished-at="2017-05-22T21:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WhenAddMessageFileThenNotifyScanner -->
+        <test-method status="PASS" signature="whenPathNotFoundThenCreateIt()[pri:0, instance:com.systemActor.ActorSystemSpec@3e6fa38a]" name="whenPathNotFoundThenCreateIt" duration-ms="4" started-at="2017-05-22T21:17:18Z" finished-at="2017-05-22T21:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenPathNotFoundThenCreateIt -->
+        <test-method status="PASS" signature="whenSystemUpThenActorsMustBeRunning()[pri:0, instance:com.systemActor.ActorSystemSpec@3e6fa38a]" name="whenSystemUpThenActorsMustBeRunning" duration-ms="4" started-at="2017-05-22T21:17:18Z" finished-at="2017-05-22T21:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenSystemUpThenActorsMustBeRunning -->
+        <test-method status="PASS" signature="aftrerTesting()[pri:0, instance:com.systemActor.ActorSystemSpec@3e6fa38a]" name="aftrerTesting" is-config="true" duration-ms="0" started-at="2017-05-22T21:17:18Z" finished-at="2017-05-22T21:17:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrerTesting -->
+      </class> <!-- com.systemActor.ActorSystemSpec -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

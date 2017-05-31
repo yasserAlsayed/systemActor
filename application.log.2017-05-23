@@ -1,0 +1,17 @@
+2017-05-23 23:47:42,251 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-23 23:47:42,264 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:nullfile6.txt
+2017-05-23 23:47:42,264 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:nullfile6.txt
+2017-05-23 23:47:42,265 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:START
+2017-05-23 23:47:42,266 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Start Reading File -->:nullfile6.txt
+2017-05-23 23:47:47,264 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:com.systemActor.actor.MessageDTO@2aa50bd9
+2017-05-23 23:47:47,270 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:END
+2017-05-23 23:47:47,271 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - End Reading File -->:nullfile6.txt
+2017-05-23 23:47:47,271 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - File nullfile6.txt contains {0} words.
+2017-05-23 23:48:39,108 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-23 23:52:23,307 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-23 23:53:20,513 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-23 23:53:54,737 [com.systemActor.actor.Aggregator] ERROR com.systemActor.actor.AbstractActor - Error While Scan Msg
+java.lang.ClassCastException: java.io.File cannot be cast to com.systemActor.actor.MessageDTO
+	at com.systemActor.actor.Aggregator.doAction(Aggregator.java:18)
+	at com.systemActor.actor.AbstractActor.run(AbstractActor.java:21)
+	at java.lang.Thread.run(Thread.java:745)

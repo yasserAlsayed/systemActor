@@ -1,0 +1,10 @@
+2017-05-31 10:12:20,195 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-31 10:12:20,311 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file1496218340261.txt
+2017-05-31 10:12:20,311 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file1496218340261.txt
+2017-05-31 10:12:20,320 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:START
+2017-05-31 10:12:20,320 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Start Reading File -->:/home/yasser/messages/file1496218340261.txt
+2017-05-31 10:12:20,536 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-31 10:12:20,561 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-31 10:12:20,563 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:END
+2017-05-31 10:12:20,563 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - End Reading File -->:/home/yasser/messages/file1496218340261.txt
+2017-05-31 10:12:20,563 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - File /home/yasser/messages/file1496218340261.txt contains {4} words.

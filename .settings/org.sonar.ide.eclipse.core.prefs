@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=
+projectKey=com.yaa.systemActor\:systemActor
+serverUrl=http\://192.168.1.111\:9000/sonar
+version=2

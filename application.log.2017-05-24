@@ -1,0 +1,61 @@
+2017-05-24 00:01:56,192 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:02:37,198 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:02:51,873 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:04:51,298 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:05:31,894 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:05:35,176 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:05:59,173 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:START
+2017-05-24 00:06:02,292 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Start Reading File -->:/home/yasser/messages/file6.txt
+2017-05-24 00:06:26,576 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:07:27,200 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:07:58,608 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:08:07,359 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:08:18,456 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:08:40,334 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:08:49,355 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:END
+2017-05-24 00:08:49,355 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - End Reading File -->:/home/yasser/messages/file6.txt
+2017-05-24 00:08:49,356 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - File /home/yasser/messages/file6.txt contains {12} words.
+2017-05-24 00:10:43,061 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:10:43,079 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:10:43,080 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:10:43,100 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:START
+2017-05-24 00:10:43,101 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Start Reading File -->:/home/yasser/messages/file6.txt
+2017-05-24 00:10:43,174 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,178 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,181 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,183 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,185 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,188 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,190 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,192 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:10:43,195 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:END
+2017-05-24 00:10:43,195 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - End Reading File -->:/home/yasser/messages/file6.txt
+2017-05-24 00:10:43,195 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - File /home/yasser/messages/file6.txt contains {16} words.
+2017-05-24 00:14:22,988 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:14:23,007 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:14:23,007 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file6.txt
+2017-05-24 00:15:10,215 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:15:10,243 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file1495577710225.txt
+2017-05-24 00:15:29,515 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:15:29,529 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file1495577729525.txt
+2017-05-24 00:15:29,530 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file1495577729525.txt
+2017-05-24 00:15:50,391 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:15:50,407 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file1495577750402.txt
+2017-05-24 00:16:03,567 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:16:34,477 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file1495577777956.txt
+2017-05-24 00:18:47,406 [com.systemActor.actor.Aggregator] ERROR com.systemActor.actor.AbstractActor - Error While Scan Msg
+java.lang.ClassCastException: java.io.File cannot be cast to com.systemActor.actor.MessageDTO
+	at com.systemActor.actor.Aggregator.doAction(Aggregator.java:22)
+	at com.systemActor.actor.AbstractActor.run(AbstractActor.java:21)
+	at java.lang.Thread.run(Thread.java:745)
+2017-05-24 00:20:24,032 [main] INFO  com.systemActor.ActorSystem - --> Start Application
+2017-05-24 00:20:29,195 [com.systemActor.actor.FileScanner] INFO  com.systemActor.actor.FileScanner - File Scanner Fetch message Name -->:/home/yasser/messages/file1495578027438.txt
+2017-05-24 00:20:30,366 [com.systemActor.actor.FileParser] INFO  com.systemActor.actor.FileParser - File Scanner Fetch message Name -->:/home/yasser/messages/file1495578027438.txt
+2017-05-24 00:20:31,973 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:START
+2017-05-24 00:20:31,974 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Start Reading File -->:/home/yasser/messages/file1495578027438.txt
+2017-05-24 00:20:33,234 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:20:34,361 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:NEW_LINE
+2017-05-24 00:20:35,273 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - Aggregator message Name -->:END
+2017-05-24 00:20:35,273 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - End Reading File -->:/home/yasser/messages/file1495578027438.txt
+2017-05-24 00:20:35,273 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - File /home/yasser/messages/file1495578027438.txt contains {4} words.
+2017-05-24 00:20:35,274 [com.systemActor.actor.Aggregator] INFO  com.systemActor.actor.Aggregator - ...
